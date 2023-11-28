@@ -13,6 +13,4 @@ Hey there! Welcome to Open Layout, where a bunch of students like us is shaking 
 We're all about teamwork! Feel free to jump into our projects, throw in your ideas, and help us great things happen.
 
 ## 💖 Join the Journey
-[![Explore Our GitHub](https://img.shields.io/badge/Explore%20Our%20GitHub-🚀-blue)](https://github.com/open-layout)
-
-Let's make cool things together! 🚀
+Let's make cool things together! 🚀 [![Explore Our GitHub](https://img.shields.io/badge/Explore%20Our%20GitHub-🚀-blue)](https://github.com/orgs/open-layout/repositories)
