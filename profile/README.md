@@ -1,4 +1,4 @@
-  ![Our Banner](https://openlayout.me/banner.png)
+  ![Our Banner](https://openlayout.me/open-banner.png)
 
 # 🧶 About Us
 Hey there! Welcome to Open Layout, where a bunch of students like us is shaking up the programming scene!
